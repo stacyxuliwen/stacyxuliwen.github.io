@@ -47,7 +47,7 @@
                     "name": stat[i].name,
                     "lon": stat[i].location.longitude,
                     "lat": stat[i].location.latitude
-					"lat": item[0][i].value
+					//"lat": item[0][i].value
                 });
             }
 
